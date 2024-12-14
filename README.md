@@ -29,7 +29,7 @@ This is a simple Python-based alarm clock where you can set a specific time in t
 
 4. Run the script:
     ```bash
-    python clialarmclock
+    python clialarmclock.py
     ```
 
 ## Usage
